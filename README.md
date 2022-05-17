@@ -5,7 +5,7 @@ This code generates HTML files using the data from https://jsonplaceholder.typic
 
 Generated HTML files are hosted on:
 
-- https://11ty-simple-example.netlify.app/
+- https://takazudo.github.io/11ty-tryout/
 
 ## Reference
 
